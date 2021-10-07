@@ -1,28 +1,21 @@
-# Todos App
+# Todos App (React Hooks Version)
 
-## Front-End Skills
+## Fundamental
 
-### Fundamental
-
-- HTML(Pug)
-- CSS(SCSS)
+- HTML
+- CSS
 - ES6+
+- LocalStorage
 
-### Frameworks & Libraries
+## Frameworks & Libraries
 
-- React, React Hooks, styled-components
+- React
+- React Hooks
+- styled-components
 
-## Feature Version
+## Website
 
-- [x] React Hooks
-- [ ] Vue 3.x
-- [ ] Vanilla JS
-
-### React Hooks
-
-- [Website Link](https://todos-react-hooks.netlify.app/)
-- Website Demo
+- [Link](https://todos-react-hooks.netlify.app/)
+- Demo
 
 ![React Hooks](https://i.imgur.com/ND42RNK.gif)
-
-### Vue 3.x
