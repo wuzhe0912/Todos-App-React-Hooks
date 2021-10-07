@@ -1,5 +1,7 @@
 # Todos App (React Hooks Version)
 
+> Use React Hooks build todo app. Includes add, delete, filter, dark mode.
+
 ## Website
 
 - [Link](https://todos-app-react-hooks.netlify.app/)
