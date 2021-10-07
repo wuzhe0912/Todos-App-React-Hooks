@@ -15,7 +15,7 @@
 
 ## Website
 
-- [Link](https://todos-react-hooks.netlify.app/)
+- [Link](https://todos-app-react-hooks.netlify.app/)
 - Demo
 
 ![React Hooks](https://i.imgur.com/ND42RNK.gif)
