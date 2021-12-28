@@ -4,7 +4,7 @@
 
 ## Website
 
-- <a href="https://todos-app-react.vercel.app/" target="_blank>Link</a>
+- [Link](https://todos-app-react.vercel.app)
 
 ## Demo display
 
