@@ -4,8 +4,9 @@
 
 ## Website
 
-- [Link](https://todos-app-react-hooks.netlify.app/)
-- Demo
+- <a href="https://todos-app-react.vercel.app/" target="_blank>Link</a>
+
+## Demo display
 
 ![React Hooks](https://i.imgur.com/ND42RNK.gif)
 
