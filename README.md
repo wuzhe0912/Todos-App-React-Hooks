@@ -1,4 +1,4 @@
-# Todos App (React Hooks Version)
+# Todos App
 
 > Use React Hooks build todo app. Includes add, delete, filter, dark mode.
 
